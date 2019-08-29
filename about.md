@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about_me/
 ---
+
+I'm currently looking for new opportunities, please feel free to reach out to me.
 
 I'm a machine learning developer and data scientist. 
 I did my BSc in Honours Co-Op Physics, at the University of Waterloo, with an astrophysics specialization. 
@@ -12,5 +14,3 @@ After my BSc, I decided to pursue a MASc in Systems Design Engineering with Prof
 As a master's student my area of focus was on Machine Learning and AI, with my thesis project being on robotic grasping using deep learning and demonstration. 
 During my master's I also had the opportunity to do an internship with North, working as part of the Machine Intelligence Team on next generation smart glasses technologies. 
 My research interests in deep learning are broad: autonomous systems, natural language processing, perception, adversarial attacks and model compression.
-
-I'm currently looking for new opportunities, please feel free to reach out to me.
