@@ -1,8 +1,10 @@
 ---
 layout: page
 title: About Me
-permalink: /about_me/
+permalink: /about/
 ---
+
+## Hi, I'm Victor
 
 I'm currently looking for new opportunities, please feel free to reach out to me.
 
