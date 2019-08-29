@@ -5,5 +5,6 @@ email: not-a-real@email.com
 description: >-
   Peronal website showing off cool projects and random musings on
   Python, data science and machine learning.
-github: haveon
-linkedin: vreyesos
+social_links:
+  github: haveon
+  linkedin: vreyesos
