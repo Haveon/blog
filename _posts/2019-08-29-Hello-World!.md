@@ -4,7 +4,6 @@ title: Hello World!
 tags: [Welcome, first]
 ---
 
-# Hello World
 This is the first post on this site. Bear with me as I try to figure out how to
 sort out all the kinks in getting this up and running.
 
