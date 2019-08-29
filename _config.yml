@@ -9,3 +9,7 @@ minima:
   social_links:
     github: haveon
     linkedin: vreyesos
+    
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
