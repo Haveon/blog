@@ -2,9 +2,11 @@ remote_theme: jekyll/minima
 
 title: Datasmith
 email: not-a-real@email.com
-description: >-
+description: >
   Peronal website showing off cool projects and random musings on
   Python, data science and machine learning.
-social_links:
-  github: haveon
-  linkedin: vreyesos
+
+minima:
+  social_links:
+    github: haveon
+    linkedin: vreyesos
